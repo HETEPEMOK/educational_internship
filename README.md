@@ -1,1 +1,2 @@
-"#education_internship" 
+[!NOTE]
+# ПИН125 Артём Славин
